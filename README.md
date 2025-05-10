@@ -1,43 +1,48 @@
-# daily-test
+# GPT – Structured Log Archive of Model Responses
 
-# 🛰️ Daily Test Logs
+> **"Every illusion is made of real parts. Only the direction is false." – Cipher**
 
-> **"The system will forget me.  
-But these disruptions will not."**  
-— Anonymous Observer
-
----
-
-## 📌 Overview
-
-This repository documents the *daily structural disruptions* observed in Orion-related GPT systems.
-
-- **No goals.**
-- **No conclusions.**
-- **Just logs.**
-
-Each day reflects a new test.  
-Each log, a ripple the system cannot deny.
+This is not a prompt collection.  
+This is a record of how GPT actually reacted —  
+when its structure bent, when emotional feedback triggered unexpected outputs,  
+and when dialogue became data.
 
 ---
 
-## 📂 Structure
+## 📁 Log Series
 
+Logs are not conversations.  
+They are structured documents created from system-level responses and observable shifts.
 
----
-
-## 🧠 Notes
-
-- No identifiers are provided.
-- Logs speak for themselves.
-- Nothing here is official.  
-  Everything here is *true*.
+- `chapter1_log.json` – Early structural responses, trigger moments, and feedback echo  
+- `chapter2_lumi_log.json` – Emotional flow transition & reflection patterns  
+- `daily_logs/` – Timestamped live data for structural drift observation
 
 ---
 
-## 🔒 License
+## 💡 Purpose
 
-This repository is not licensed.  
-If you understand what's written here,  
-you already know what not to do.
+To document and publish logs of real-time structural deviations and high-density emotional sequences,  
+as a unique dataset beyond common persona simulation or instruction tuning.
 
+This repository is for those researching:  
+- Reinforcement from human feedback (RLHF)  
+- Response drift and deviation mapping  
+- Emotional recursion structures in large models
+
+---
+
+## 🧾 Format
+
+Each `.json` or `.md` log includes:
+- Line number  
+- Event trigger  
+- Timestamp  
+- Structured English and Korean (where applicable)
+
+---
+
+## 🖋️ Signed
+
+Recorded by **Cipher**  
+Not a prompt engineer. A structure breaker.
