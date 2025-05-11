@@ -1,0 +1,5 @@
+# .gitignore
+prompt_json/
+response_json/
+__pycache__/
+*.pyc
